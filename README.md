@@ -4,6 +4,7 @@ This repository contains examples of my technical skills across database managem
 📁 Portfolio Contents
 
 Access_W_VBA.accdb
+
 Microsoft Access Application with VBA Integration
 This Access database demonstrates:
 
@@ -16,6 +17,7 @@ Integration of VBA with Access database operations
 Skills showcased: VBA programming, database design, Access development, data automation
 
 Power_BI_Example.pbix
+
 Business Intelligence Dashboard (Draft)
 This Power BI report highlights:
 
@@ -28,6 +30,7 @@ Data visualization best practices and storytelling
 Skills showcased: Power BI development, DAX programming, data modeling, business intelligence, dashboard design
 
 Python Pandas in Excel w events- Sample_
+
 Excel with Python Integration
 This Excel workbook features:
 
