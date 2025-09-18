@@ -1,5 +1,6 @@
 Technical Portfolio - Sample Work
 This repository contains examples of my technical skills across database management, business intelligence, and automation development.
+
 📁 Portfolio Contents
 Access_W_VBA.accdb
 Microsoft Access Application with VBA Integration
