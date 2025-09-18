@@ -16,6 +16,7 @@ Integration of VBA with Access database operations
 
 Skills showcased: VBA programming, database design, Access development, data automation
 
+
 Power_BI_Example.pbix
 
 Business Intelligence Dashboard (Draft)
@@ -29,6 +30,7 @@ Data visualization best practices and storytelling
 
 Skills showcased: Power BI development, DAX programming, data modeling, business intelligence, dashboard design
 
+
 Python Pandas in Excel w events- Sample_
 
 Excel with Python Integration
@@ -41,6 +43,7 @@ Everyday VBA automation buttons for common business tasks
 Hybrid approach combining Excel VBA with Python data processing
 
 Skills showcased: Python programming, pandas library, Excel VBA, data analysis, process automation
+
 
 🔧 Important: Enabling Macros and VBA Content
 For Excel and Access files with VBA/Macros:
