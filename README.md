@@ -3,6 +3,10 @@ This repository contains examples of my technical skills across database managem
 
 📁 Portfolio Contents
 
+🗄️AES_Fixer_VBA_Example_Code.doc
+
+A word file that introduces a VBA code and some of my VBA knowledge. The introductory note in the file breaks down it's significants in greater detail 🖼️ AES Report Visual offers a snapshot of what this VBA code produced. 
+
 🗄️Access_W_VBA.accdb
 
 Microsoft Access Application with VBA Integration
